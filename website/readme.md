@@ -18,6 +18,6 @@ If you are a beginner and would like me to explain something in the code, or if 
 
 ## Lisence
 
-added to check the certification project
+added to check for  the certification project to run the pipeline
 
 MIT
